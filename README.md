@@ -1,4 +1,4 @@
-![GitHub Dark Mode](https://img.shields.io/static/v1?label=&message=Dark%20Mode&color=222222&style=for-the-badge)
+![GitHub](https://img.shields.io/static/v1?label=&message=Dark%20Mode&color=222222&style=for-the-badge)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
