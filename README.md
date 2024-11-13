@@ -53,7 +53,7 @@
 <h2 align="center" style="color: white;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-   <img width=390 src="https://github-readme-streak-stats-Tanmyname.vercel.app/?user=Tanmyname&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tanmyname&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
