@@ -39,8 +39,8 @@
 <!-- Bagian Tools dan Skill -->
 <h2 align="center" style="color: white;">The programming language I learned</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,,tailwind,git,r" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java," />
 </div>
 
 <hr/>
