@@ -1,5 +1,5 @@
 <!-- Gambar Background Header -->
-<div align="center" style="background: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.kibrispdr.org%2Fdata%2F902%2Fwarna-hitam-polos-untuk-wallpaper-1.jpg&tbnid=1fS7cwzypTTGQM&vet=10CBkQxiAoCGoXChMIwM3h_ZXYiQMVAAAAAB0AAAAAEAY..i&imgrefurl=https%3A%2F%2Fwww.kibrispdr.org%2Fwarna-hitam-polos-untuk-wallpaper.html&docid=iFi3RIk9tq4BjM&w=300&h=300&itg=1&q=gambar%20hitamn&ved=0CBkQxiAoCGoXChMIwM3h_ZXYiQMVAAAAAB0AAAAAEAY') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
+<div align="center" style="background: url('https://github.com/Tanmyname/Tanmyname/blob/main/icon.jpg') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tan!;" />
   </h1>
