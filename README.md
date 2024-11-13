@@ -62,7 +62,7 @@
 <!-- GIF Animasi di bagian bawah -->
 <div align="center" style="background-color: #222222; padding: 40px; color: white; border-radius: 10px;">
   <h3>Watch my animated GIF below:</h3>
-  <img src="https://yourgifurl.com/youranimation.gif" alt="Animated GIF" width="600px" />
+  <img src="https://tenor.com/view/atsuko-smile-blue-archive-sus-smile-gif-27657028" alt="Animated GIF" width="600px" />
   <br/><br/>
   <h3>Feel free to contact me!</h3>
 </div>
