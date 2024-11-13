@@ -20,10 +20,9 @@
 </div>
 
 <br/>
-
 <!-- Badges Kontak -->
-<div align="center">
-  <a href="mailto:pedro.sales.tanxzxzxz@gmail.com">
+<!-- div align="center --">
+  <a href="mailto:pedro.sales.">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
@@ -32,8 +31,7 @@
   <a href="https://salesp07.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-</div>
-
+</div> -->
 <hr/>
 
 <!-- Bagian Tools dan Skill -->
@@ -52,8 +50,8 @@
 
 <hr/>
 
-<!-- Stats Section -->
 <h2 align="center" style="color: white;">⚡ Stats ⚡</h2>
+<br>
 <div align="center">
   <!-- Streak Stats -->
   <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Tanmyname&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
@@ -66,6 +64,15 @@
   <!-- Top Languages -->
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmyname&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br>
+
+<h3 align="center" style="color: white;">👨‍💻 Contributors</h3>
+<div align="center">
+  <!-- Contributor Stats: Will show the first 5 contributors of your most popular repo -->
+  <img width="390" src="https://contrib.rocks/image?repo=Tanmyname/Tanmyname" alt="contributors" />
+</div>
+
 
 
 <hr/>
