@@ -61,10 +61,10 @@
 
 <!-- GIF Animasi di bagian bawah -->
 <div align="center" style="background-color: #222222; padding: 40px; color: white; border-radius: 10px;">
-  <h3>Watch my animated GIF below:</h3>
+  <h3>HI😁</h3>
   <img src="https://media1.tenor.com/m/B-URRu8PNfsAAAAd/atsuko-smile-blue-archive.gif" alt="Animated GIF" width="600px" />
   <br/><br/>
-  <h3>HELLO</h3>
+  <h3>😁</h3>
 </div>
 
 <br/>
