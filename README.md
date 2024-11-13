@@ -3,7 +3,6 @@
   <h3>HI😁</h3>
   <img src="https://media1.tenor.com/m/B-URRu8PNfsAAAAd/atsuko-smile-blue-archive.gif" alt="Animated GIF" width="600px" />
   <br/><br/>
-  <h3>😁</h3>
 </div>
 <div align="center" style="background: url('https://github.com/Tanmyname/Tanmyname/blob/main/icon.jpg') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
   <h1 align="center">
