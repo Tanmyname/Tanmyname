@@ -53,10 +53,7 @@
 <h2 align="center" style="color: white;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <!-- Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Tanmyname&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
-  
-  <!-- General GitHub Stats -->
+   <img width=390 src="https://github-readme-streak-stats-Tanmyname.vercel.app/?user=Tanmyname&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tanmyname&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
@@ -66,11 +63,6 @@
 </div>
 
 <br>
-
-<h3 align="center" style="color: white;">👨‍💻 Contributors</h3>
-<div align="center">
-  <!-- Contributor Stats: Will show the first 5 contributors of your most popular repo -->
-  <img width="390" src="https://contrib.rocks/image?repo=Tanmyname/Tanmyname" alt="contributors" />
 </div>
 
 
