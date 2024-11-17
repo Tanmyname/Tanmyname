@@ -58,7 +58,7 @@
   <br/>
 <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmyname&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+[![Buy Me a Coffee](https://img.icons8.com/plasticine/100/000000/coffee.png)](https://saweria.co/Supporttann)
 <br>
 </div>
 
